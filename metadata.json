@@ -1,0 +1,6 @@
+{
+  "name": "RUDRA",
+  "description": "Jarvis-style tactical AI mobile assistant with speech-to-speech voice interaction and male persona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
